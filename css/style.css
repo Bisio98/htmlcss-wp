@@ -91,7 +91,6 @@ body{
 }
 
 .col_left,.col_center,.col_right{
-    height: 500px;
     float: left;
 }
 
